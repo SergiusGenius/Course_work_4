@@ -34,7 +34,9 @@ function renderChooseScreen() {
     start_button.textContent = 'Старт';
 
 
-
+    console.log(window);
+    console.log(window.application);
+    console.log(window.info);
 
     app.appendChild(topBox);
     topBox.appendChild(title);
