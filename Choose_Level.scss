@@ -48,6 +48,11 @@ body{
     font-size: 64px;
     color: #0080C1;
     font-family: 'Comic Sans MS' ;
+    cursor:pointer ;
+}
+
+.button_level:active {
+    background-color: rgb(156, 153, 153);
 }
 
 .start{
@@ -60,4 +65,9 @@ body{
     margin-top: 67px;
     font-size: 24px;
     font-family: 'Comic Sans MS' ;
+    cursor: pointer;
+}
+
+.start:active {
+    background-color:  #7ac10087 ;
 }
