@@ -1,0 +1,31 @@
+{
+  "name": "cours_work_4",
+  "version": "1.0.0",
+  "description": "find a couple",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 3004",
+    "format": "prettier --write ./src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergiusGenius/Course_work_4.git"
+  },
+  "author": "ivanahlamov@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergiusGenius/Course_work_4/issues"
+  },
+  "homepage": "https://github.com/SergiusGenius/Course_work_4#readme",
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
