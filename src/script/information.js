@@ -1,9 +1,10 @@
-window['info'] = {
+window['information'] = {
     level: {},
     gameStatus: {},
     gameTime: {},
     gameCards: {},
-    playerChoose: {}
+    playerChoose: {},
+    allCards: {},
 };
 
 

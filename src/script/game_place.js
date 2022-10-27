@@ -1,5 +1,5 @@
 const app = document.querySelector('.app');
-const info = window.info;
+const info = window.information;
 
 
 function renderFirstLevel() {

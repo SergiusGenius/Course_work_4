@@ -36,7 +36,7 @@ function renderChooseScreen() {
 
     console.log(window);
     console.log(window.application);
-    console.log(window.info);
+    console.log(window.information);
 
     app.appendChild(topBox);
     topBox.appendChild(title);
@@ -50,4 +50,4 @@ function renderChooseScreen() {
 window.application.screens['choose_level'] = renderChooseScreen;
 
 
-window.application.renderScreen('choose_level');
+//window.application.renderScreen('choose_level');

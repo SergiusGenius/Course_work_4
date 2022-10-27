@@ -1,7 +1,7 @@
-window.info.gameStatus = '';
-window.info.gameStatus = 'choose_level';
+//window.information.gameStatus = '';
+//window.information.gameStatus = 'choose_level';
 
-const info = window.info;
+//const info = window.information;
 
 const firstLevel = document.querySelector('.first');
 const secondLevel = document.querySelector('.second');
